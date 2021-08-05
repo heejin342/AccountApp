@@ -15,6 +15,18 @@
 		F017913526A1340C00193FE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F017913326A1340C00193FE0 /* LaunchScreen.storyboard */; };
 		F017914026A1340D00193FE0 /* AccountAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F017913F26A1340D00193FE0 /* AccountAppTests.swift */; };
 		F017914A26A1340D00193FE0 /* AccountAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F017914926A1340D00193FE0 /* AccountAppUITests.swift */; };
+		F017919626A1A54400193FE0 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F017919526A1A54400193FE0 /* ViewController2.swift */; };
+		F01791A026A21BFC00193FE0 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F017919F26A21BFC00193FE0 /* ViewController3.swift */; };
+		F01791CC26A226E900193FE0 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01791CB26A226E900193FE0 /* ViewController4.swift */; };
+		F01F33CA26A6279800C9319A /* CalendarCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01F33C926A6279800C9319A /* CalendarCell.swift */; };
+		F055820526A5CE080081730D /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = F055820426A5CE080081730D /* ViewController6.swift */; };
+		F07F49E626A6CB0100E680B9 /* EventEditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F07F49E526A6CB0100E680B9 /* EventEditViewController.swift */; };
+		F07F49E826A6CB1800E680B9 /* EventCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F07F49E726A6CB1800E680B9 /* EventCell.swift */; };
+		F07F49EB26A6D29900E680B9 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = F07F49EA26A6D29900E680B9 /* Event.swift */; };
+		F08E605326A6A00B0020CC3C /* WeeklyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F08E605226A6A00B0020CC3C /* WeeklyViewController.swift */; };
+		F095917726A71039001D76C5 /* EventEdit2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F095917626A71039001D76C5 /* EventEdit2ViewController.swift */; };
+		F095917B26A7D38F001D76C5 /* MyLocalStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F095917A26A7D38F001D76C5 /* MyLocalStorage.swift */; };
+		F09A72B126A62DE900E7F136 /* CalenderHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F09A72B026A62DE900E7F136 /* CalenderHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +59,18 @@
 		F017913F26A1340D00193FE0 /* AccountAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountAppTests.swift; sourceTree = "<group>"; };
 		F017914526A1340D00193FE0 /* AccountAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AccountAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F017914926A1340D00193FE0 /* AccountAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountAppUITests.swift; sourceTree = "<group>"; };
+		F017919526A1A54400193FE0 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		F017919F26A21BFC00193FE0 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		F01791CB26A226E900193FE0 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		F01F33C926A6279800C9319A /* CalendarCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarCell.swift; sourceTree = "<group>"; };
+		F055820426A5CE080081730D /* ViewController6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController6.swift; sourceTree = "<group>"; };
+		F07F49E526A6CB0100E680B9 /* EventEditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventEditViewController.swift; sourceTree = "<group>"; };
+		F07F49E726A6CB1800E680B9 /* EventCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventCell.swift; sourceTree = "<group>"; };
+		F07F49EA26A6D29900E680B9 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		F08E605226A6A00B0020CC3C /* WeeklyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeeklyViewController.swift; sourceTree = "<group>"; };
+		F095917626A71039001D76C5 /* EventEdit2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventEdit2ViewController.swift; sourceTree = "<group>"; };
+		F095917A26A7D38F001D76C5 /* MyLocalStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLocalStorage.swift; sourceTree = "<group>"; };
+		F09A72B026A62DE900E7F136 /* CalenderHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalenderHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,13 +121,23 @@
 		F017912726A1340900193FE0 /* AccountApp */ = {
 			isa = PBXGroup;
 			children = (
+				F07F49E926A6CB2300E680B9 /* study */,
 				F017912826A1340900193FE0 /* AppDelegate.swift */,
 				F017912A26A1340900193FE0 /* SceneDelegate.swift */,
 				F017912C26A1340900193FE0 /* ViewController.swift */,
+				F055820426A5CE080081730D /* ViewController6.swift */,
+				F01F33C926A6279800C9319A /* CalendarCell.swift */,
+				F09A72B026A62DE900E7F136 /* CalenderHelper.swift */,
+				F08E605226A6A00B0020CC3C /* WeeklyViewController.swift */,
+				F07F49E526A6CB0100E680B9 /* EventEditViewController.swift */,
+				F095917626A71039001D76C5 /* EventEdit2ViewController.swift */,
+				F07F49E726A6CB1800E680B9 /* EventCell.swift */,
+				F07F49EA26A6D29900E680B9 /* Event.swift */,
 				F017912E26A1340900193FE0 /* Main.storyboard */,
-				F017913126A1340C00193FE0 /* Assets.xcassets */,
 				F017913326A1340C00193FE0 /* LaunchScreen.storyboard */,
+				F017913126A1340C00193FE0 /* Assets.xcassets */,
 				F017913626A1340C00193FE0 /* Info.plist */,
+				F095917A26A7D38F001D76C5 /* MyLocalStorage.swift */,
 			);
 			path = AccountApp;
 			sourceTree = "<group>";
@@ -122,6 +156,16 @@
 				F017914926A1340D00193FE0 /* AccountAppUITests.swift */,
 			);
 			path = AccountAppUITests;
+			sourceTree = "<group>";
+		};
+		F07F49E926A6CB2300E680B9 /* study */ = {
+			isa = PBXGroup;
+			children = (
+				F017919526A1A54400193FE0 /* ViewController2.swift */,
+				F017919F26A21BFC00193FE0 /* ViewController3.swift */,
+				F01791CB26A226E900193FE0 /* ViewController4.swift */,
+			);
+			path = study;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -255,9 +299,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F01791A026A21BFC00193FE0 /* ViewController3.swift in Sources */,
+				F01791CC26A226E900193FE0 /* ViewController4.swift in Sources */,
+				F095917726A71039001D76C5 /* EventEdit2ViewController.swift in Sources */,
 				F017912D26A1340900193FE0 /* ViewController.swift in Sources */,
+				F08E605326A6A00B0020CC3C /* WeeklyViewController.swift in Sources */,
+				F07F49E826A6CB1800E680B9 /* EventCell.swift in Sources */,
+				F09A72B126A62DE900E7F136 /* CalenderHelper.swift in Sources */,
+				F017919626A1A54400193FE0 /* ViewController2.swift in Sources */,
 				F017912926A1340900193FE0 /* AppDelegate.swift in Sources */,
+				F055820526A5CE080081730D /* ViewController6.swift in Sources */,
+				F07F49E626A6CB0100E680B9 /* EventEditViewController.swift in Sources */,
 				F017912B26A1340900193FE0 /* SceneDelegate.swift in Sources */,
+				F01F33CA26A6279800C9319A /* CalendarCell.swift in Sources */,
+				F095917B26A7D38F001D76C5 /* MyLocalStorage.swift in Sources */,
+				F07F49EB26A6D29900E680B9 /* Event.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
